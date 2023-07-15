@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou Michael Rodrigues</h1>
 <h3 align="center">Software developer</h3>
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=michaellinsk&show_icons=true&count_private=true&hide_border=true&title_color=28B01E&icon_color=28B01E&text_color=c9d1d9&bg_color=0d1117" alt="Michael Rodrigues" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaellinsk&layout=compact&hide_border=true&title_color=28B01E&text_color=28B01E&bg_color=0d1117" />
