@@ -20,5 +20,3 @@
   <a href="https://www.linkedin.com/in/michael-lfrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br> 
-
-![Snake animation](https://github.com/michaellinsk/michaellinsk/blob/main/github-contribution-grid-snake.svg)
